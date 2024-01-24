@@ -1,0 +1,12 @@
+Los datos son :
+nombre: Daniel
+ Apellido :Torres
+------------nombre: Jose
+ Apellido :Negro
+------------nombre: Ricardo
+ Apellido :Perex
+------------nombre: Chimbo
+ Apellido :Molinos
+------------nombre: Siu
+ Apellido :Venezuela
+------------
